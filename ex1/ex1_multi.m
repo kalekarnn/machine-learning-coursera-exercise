@@ -151,6 +151,8 @@ fprintf('\n');
 % ====================== YOUR CODE HERE ======================
 price = 0; % You should change this
 
+newData = [1 1600 3];
+price = newData*theta;
 
 % ============================================================
 
